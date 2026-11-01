@@ -49,5 +49,4 @@
 
 <p>
   <img src="https://streak-stats.demolab.com?user=hanbg191919-eng&locale=ko" alt="GitHub 연속 기여" height="190">
-  <img src="assets/languages.svg" alt="많이 쓴 언어" height="190">
 </p>
