@@ -12,22 +12,22 @@
   동아리 프로젝트에서는 React와 TypeScript로 웹 화면을 맡았습니다.
 </p>
 
-### 📌 Portfolio & Links
+### 🧭 둘러보기
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <br><b>📒 포트폴리오</b><br><br>
-      <a href="https://www.notion.so/248ba972198d829f9f4581ed74b4eb5c"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" alt="노션 포트폴리오"></a>
-      <br><br>공부 기록 · 프로젝트 정리<br><br>
+    <td align="center">
+      <img src="assets/spacer.png" width="250" height="1" alt=""><br><b>📚 학습내용 정리</b><br><br>
+      <a href="https://www.notion.so/248ba972198d829f9f4581ed74b4eb5c"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" alt="노션 학습내용 정리"></a>
+      <br><br>과목별 공부 · 프로젝트 기록<br><br>
     </td>
-    <td align="center" width="33%">
-      <br><b>🌱 동아리 프로젝트 잔디로그</b><br><br>
+    <td align="center">
+      <img src="assets/spacer.png" width="250" height="1" alt=""><br><b>🌱 동아리 프로젝트 잔디로그</b><br><br>
       <a href="https://glog-front.vercel.app"><img src="https://img.shields.io/badge/JANDI-LOG-216E39?style=for-the-badge&labelColor=40C463" alt="잔디로그"></a>
       <br><br>동아리 3명 · 웹 화면 담당 · 배포 중<br><br>
     </td>
-    <td align="center" width="33%">
-      <br><b>✍️ 공부 블로그</b><br><br>
+    <td align="center">
+      <img src="assets/spacer.png" width="250" height="1" alt=""><br><b>✍️ 공부 블로그</b><br><br>
       <a href="https://hanbg191919-eng.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/STUDY_BLOG-3C7A6F?style=for-the-badge" alt="공부 블로그"></a>
       <br><br>과목별로 정리한 공부 기록<br><br>
     </td>
