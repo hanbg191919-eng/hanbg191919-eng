@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://hanbg191919-eng.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-hanbg191919--eng.github.io-4A90E2?style=for-the-badge&logo=githubpages&logoColor=white" alt="포트폴리오"></a>
-  <a href="https://hanbg191919-eng.github.io/PORTFOLIO/tabs/blog/"><img src="https://img.shields.io/badge/%EA%B3%B5%EB%B6%80_%EA%B8%B0%EB%A1%9D-%EB%B8%94%EB%A1%9C%EA%B7%B8-2EA44F?style=for-the-badge&logo=jekyll&logoColor=white" alt="블로그"></a>
+  <a href="https://www.notion.so/248ba972198d829f9f4581ed74b4eb5c"><img src="https://img.shields.io/badge/%EB%85%B8%EC%85%98-%ED%95%99%EC%8A%B5%EB%82%B4%EC%9A%A9_%EC%A0%95%EB%A6%AC-000000?style=for-the-badge&logo=notion&logoColor=white" alt="노션 학습내용 정리"></a>
 </p>
 
 <p align="center">
