@@ -22,9 +22,9 @@
       <br><br>과목별 공부 · 프로젝트 기록<br><br>
     </td>
     <td align="center">
-      <img src="assets/spacer.png" width="250" height="1" alt=""><br><b>🌱 동아리 프로젝트 잔디로그</b><br><br>
-      <a href="https://glog-front.vercel.app"><img src="https://img.shields.io/badge/JANDI-LOG-216E39?style=for-the-badge&labelColor=40C463" alt="잔디로그"></a>
-      <br><br>동아리 3명 · 웹 화면 담당 · 배포 중<br><br>
+      <img src="assets/spacer.png" width="250" height="1" alt=""><br><b>🌱 동아리 프로젝트</b><br><br>
+      <a href="https://glog-front.vercel.app"><img src="https://img.shields.io/badge/%EC%9E%94%EB%94%94%EB%A1%9C%EA%B7%B8-1F6B3C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzFGNkIzQyIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMTIzRjI1IiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxjbGlwUGF0aCBpZD0iY29ybmVyIj48cmVjdCB4PSI0MSIgeT0iMTAiIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMyIgcng9IjMiIC8+PC9jbGlwUGF0aD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9InVybCgjYmcpIiAvPgogIDxyZWN0IHg9IjEwIiB5PSIxMCIgd2lkdGg9IjEzIiBoZWlnaHQ9IjEzIiByeD0iMyIgZmlsbD0iIzJDNkI0QSIgLz4KICA8cmVjdCB4PSIyNS41IiB5PSIxMCIgd2lkdGg9IjEzIiBoZWlnaHQ9IjEzIiByeD0iMyIgZmlsbD0iIzgyQzU5QiIgLz4KICA8cmVjdCB4PSI0MSIgeT0iMTAiIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMyIgcng9IjMiIGZpbGw9IiNFOEY0RUEiIC8+CiAgPHBvbHlnb24gcG9pbnRzPSI0OC41LDEwIDU0LDEwIDU0LDE1LjUiIGZpbGw9IiMyQjRBQTgiIGNsaXAtcGF0aD0idXJsKCNjb3JuZXIpIiAvPgogIDxyZWN0IHg9IjEwIiB5PSIyNS41IiB3aWR0aD0iMTMiIGhlaWdodD0iMTMiIHJ4PSIzIiBmaWxsPSIjQzBFMkNGIiAvPgogIDxyZWN0IHg9IjI1LjUiIHk9IjI1LjUiIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMyIgcng9IjMiIGZpbGw9IiMzQjk5NjAiIC8+CiAgPHJlY3QgeD0iNDEiIHk9IjI1LjUiIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMyIgcng9IjMiIGZpbGw9IiM4MkM1OUIiIC8+CiAgPHJlY3QgeD0iMTAiIHk9IjQxIiB3aWR0aD0iMTMiIGhlaWdodD0iMTMiIHJ4PSIzIiBmaWxsPSIjM0I5OTYwIiAvPgogIDxyZWN0IHg9IjI1LjUiIHk9IjQxIiB3aWR0aD0iMTMiIGhlaWdodD0iMTMiIHJ4PSIzIiBmaWxsPSIjQzBFMkNGIiAvPgogIDxyZWN0IHg9IjQxIiB5PSI0MSIgd2lkdGg9IjEzIiBoZWlnaHQ9IjEzIiByeD0iMyIgZmlsbD0iIzgyQzU5QiIgLz4KPC9zdmc+Cg==" alt="잔디로그"></a>
+      <br><br>GitHub 잔디와 기록글로<br>팀의 꾸준함을 함께 확인해요<br><br>
     </td>
     <td align="center">
       <img src="assets/spacer.png" width="250" height="1" alt=""><br><b>✍️ 공부 블로그</b><br><br>
