@@ -7,15 +7,32 @@
 <p align="center"><b>사용자가 보는 화면부터 서버까지 이해하는 웹 개발자를 목표로 하고 있습니다.</b></p>
 
 <p align="center">
-  <a href="https://hanbg191919-eng.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-hanbg191919--eng.github.io-4A90E2?style=for-the-badge&logo=githubpages&logoColor=white" alt="포트폴리오"></a>
-  <a href="https://www.notion.so/248ba972198d829f9f4581ed74b4eb5c"><img src="https://img.shields.io/badge/%EB%85%B8%EC%85%98-%ED%95%99%EC%8A%B5%EB%82%B4%EC%9A%A9_%EC%A0%95%EB%A6%AC-000000?style=for-the-badge&logo=notion&logoColor=white" alt="노션 학습내용 정리"></a>
-</p>
-
-<p align="center">
   성일정보고등학교 소프트웨어 개발과에 다니고 있습니다.<br>
   수업과 방과후에서 HTML · CSS · JavaScript, Java, Oracle SQL, 스프링부트를 배웠고,<br>
   동아리 프로젝트에서는 React와 TypeScript로 웹 화면을 맡았습니다.
 </p>
+
+### 📌 Portfolio & Links
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <br><b>📒 포트폴리오</b><br><br>
+      <a href="https://www.notion.so/248ba972198d829f9f4581ed74b4eb5c"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" alt="노션 포트폴리오"></a>
+      <br><br>공부 기록 · 프로젝트 정리<br><br>
+    </td>
+    <td align="center" width="33%">
+      <br><b>🌱 동아리 프로젝트 잔디로그</b><br><br>
+      <a href="https://glog-front.vercel.app"><img src="https://img.shields.io/badge/JANDI-LOG-216E39?style=for-the-badge&labelColor=40C463" alt="잔디로그"></a>
+      <br><br>동아리 3명 · 웹 화면 담당 · 배포 중<br><br>
+    </td>
+    <td align="center" width="33%">
+      <br><b>✍️ 공부 블로그</b><br><br>
+      <a href="https://hanbg191919-eng.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/STUDY_BLOG-3C7A6F?style=for-the-badge" alt="공부 블로그"></a>
+      <br><br>과목별로 정리한 공부 기록<br><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
