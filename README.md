@@ -61,9 +61,3 @@
 | [잔디로그](https://glog-front.vercel.app) | GitHub 잔디와 기록글로 팀의 꾸준함을 함께 확인하는 동아리 서비스 | 웹 프론트엔드 (React · TypeScript) |
 | [Young Trip](https://github.com/2026-tmax-it-school/TMAXyoungkk) | 단톡방에 나온 장소를 날짜별 시간표와 지도 루트로 바꿔 주는 여행 계획 앱 | 메인 책임, 앱 · 서버 개발 |
 | [들어갈까](https://github.com/hanbg191919-eng/APP-GO) | 가구 치수를 넣으면 우리 집 방에 들어가는지 알려 주는 앱 | 혼자 기획부터 서버 · 앱까지 |
-
-### 📊 GitHub
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=hanbg191919-eng&locale=ko" alt="GitHub 연속 기여" height="190">
-</p>
